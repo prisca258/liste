@@ -1,1 +1,103 @@
+body{
+    width: 800px;
+    margin: 0 auto;
+    font-family: 'Gothic A1', sans-serif;
+    box-shadow:  4px 4px 4px 1px ;
+    
+    
+}
+.droite{
+    float: right;
+    padding-right:155px;
+    
+
+}
+
+.taille{
+    font-size: 1.5em;
+}
+table{
+    width: 700px;
+    margin-top: 10px;
+    
+    
+}
+table{
+    border-collapse: collapse;
+    margin-left: 50px;
+    
+}
+td,th{
+    
+      border: 1px solid black;
+      padding-top: 10px;
+      padding-bottom: 10px;
+      
+      
+}
+th{ text-align: left;
+    padding-left: 15px;
+}
+td{
+    padding-left: 15px;
+    padding-right: 10px;
+}
+.diese{
+    padding-left: 15px;
+    padding-right: 10px;
+    
+}
+.tiret{
+    width: 50px;
+    height: 5px;
+    background-color: red;
+}
+header{
+    margin-left: 50px;
+    margin-top: 20px;
+    padding: 45px;
+}
+footer{
+    margin-top: 40px;
+}
+
+    .centre{
+        text-align: center;
+        padding: 60px;
+        font-size: 1.2em;
+        color: gray;
+    }
+
+
+
+
+div{
+    width: 50px;
+    height: 8px;
+    background-color: red;
+}
+.entete{
+    width: 800px;
+    height: 30px;
+    padding-left: 0px;
+}
+.dev{
+    color: red;
+    font-size: 1.05em;
+    margin: 0 auto;
+}
+th{
+    color: white;
+    background-color: red;
+}
+.bhaut{
+        width:800px;
+        height:20px;
+        padding: 2 20px 20px;
+        background-color: red;
+        margin-top: 30px;
+        
+}
+
+
 /* Insert your CSS here */
